@@ -46,7 +46,6 @@ https://newsapi.org/
 # Author
 
 - Nori
-- Sterling College
 
 # License
 
